@@ -1,0 +1,12 @@
+{
+  "name": "ETHIstanbul",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/liquiditylibs/kpr.git",
+  "author": "twentyone37 <twentyone_37@proton.me>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "web3": "^4.2.2"
+  }
+}
