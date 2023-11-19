@@ -1,8 +1,8 @@
-# KRP - Krzysztof Request Provider Library
+# prl.js - Payment Request Library
 
 ## Overview
 
-KRP - Krzysztof Request Provider is designed for seamless integration with WalletConnect's Web3Inbox and Chainlink's Cross-Chain Interoperability Protocol (CCIP). This library enables applications to send notifications to Ethereum addresses and ENS names and to facilitate and handle cross-chain transactions. Leveraging Web3.js for Ethereum blockchain interactions, including ENS name resolution, KRP provides a user-friendly approach to managing cross-chain communications.
+prl.js - Payment Request Library is designed for seamless integration with WalletConnect's Web3Inbox and Chainlink's Cross-Chain Interoperability Protocol (CCIP). This library enables applications to send notifications to Ethereum addresses and ENS names and to facilitate and handle cross-chain transactions. Leveraging Web3.js for Ethereum blockchain interactions, including ENS name resolution, KRP provides a user-friendly approach to managing cross-chain communications.
 
 ## Features
 
