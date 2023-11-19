@@ -1,12 +1,20 @@
 {
   "name": "ETHIstanbul",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/web3InboxService.js",
   "repository": "https://github.com/liquiditylibs/kpr.git",
   "author": "twentyone37 <twentyone_37@proton.me>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "node-fetch": "^3.3.2",
     "web3": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.8",
+    "jest": "^29.7.0",
+    "jest-fetch-mock": "^3.0.3"
   }
 }

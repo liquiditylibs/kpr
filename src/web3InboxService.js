@@ -1,5 +1,5 @@
-const fetch = require("node-fetch");
-const Web3 = require("web3"); // or use ethers
+import fetch from "node-fetch";
+import Web3 from "web3"; // or use ethers
 
 class Web3InboxService {
   constructor(projectId, apiSecret, rpcUrl) {
@@ -55,4 +55,4 @@ class Web3InboxService {
   }
 }
 
-module.exports = Web3InboxService;
+export default Web3InboxService;
